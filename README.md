@@ -27,3 +27,7 @@ axe-audit scan
 - Playwright
 - Axe-core
 - Node.js
+
+Step 1: Install Dependencies
+npm init -y
+npm install playwright axe-core fs-extra chalk commander
