@@ -29,5 +29,9 @@ axe-audit scan
 - Node.js
 
 Step 1: Install Dependencies
+
 npm init -y
+
+npm install axe-html-reporter fs-extra
+
 npm install playwright axe-core fs-extra chalk commander
